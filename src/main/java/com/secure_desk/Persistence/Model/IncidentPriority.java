@@ -1,5 +1,5 @@
 package com.secure_desk.Persistence.Model;
 
 public enum IncidentPriority {
-    LOW, MEDIUM, HIGH, CRITICALs
+    LOW, MEDIUM, HIGH, CRITICAL
 }
